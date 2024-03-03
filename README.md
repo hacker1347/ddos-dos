@@ -6,20 +6,20 @@ Distributed Denial of Service (DDoS) Attack A Distributed Denial of Service (DDo
 Verwende git clone gefolgt vom GitHub-Repository-Link, um das Repository auf dein System zu klonen:
 
 
-bash
+
 git clone <https://github.com/hacker1347/ddos-dos.git>
 
 Navigiere in das Verzeichnis des geklonten Repositorys:
 
 
-bash
+
 
 
 
 cd <ddos-dos>
 
 Starte das DDOS-Attack-Tool, indem du das Python-Skript ausführst:
-bash
+
 
 
 python HackerKid_DDOS_Attack.py
