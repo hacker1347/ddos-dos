@@ -14,6 +14,8 @@ Navigiere in das Verzeichnis des geklonten Repositorys:
 
 bash
 
+
+
 cd <ddos-dos>
 
 Starte das DDOS-Attack-Tool, indem du das Python-Skript ausführst:
