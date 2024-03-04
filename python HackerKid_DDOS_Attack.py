@@ -56,4 +56,4 @@ for ip in ips:
     for port in ports:
         # Use a bytes literal to create the data
         data = b'Hello, this is a DDOS attack'
-        print("Starting the attack
+        print("Starting the attack")
